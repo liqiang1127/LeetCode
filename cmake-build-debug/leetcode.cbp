@@ -119,6 +119,15 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/215-KthLargestElement.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/217-ContainsDuplicate.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/219-ContainsDuplicate.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/220-ContainsDuplicate.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/242-IsAnagram.h">
 			<Option target="leetcode"/>
 		</Unit>

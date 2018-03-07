@@ -6,12 +6,12 @@
 
 #IncludeRegexTransform: 
 
-D:/develop/workspace/Cworkspace/leetcode/149-MaxPoints.h
+D:/develop/workspace/Cworkspace/leetcode/219-ContainsDuplicate.h
 iostream
 -
 vector
 -
-map
+unordered_set
 -
 
 D:/develop/workspace/Cworkspace/leetcode/main.cpp
@@ -19,6 +19,6 @@ iostream
 -
 vector
 -
-149-MaxPoints.h
-D:/develop/workspace/Cworkspace/leetcode/149-MaxPoints.h
+219-ContainsDuplicate.h
+D:/develop/workspace/Cworkspace/leetcode/219-ContainsDuplicate.h
 
