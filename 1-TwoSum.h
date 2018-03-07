@@ -10,6 +10,7 @@
 #include <unordered_map>
 
 using namespace std;
+//查找表 经典问题
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

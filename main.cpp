@@ -1,13 +1,23 @@
 #include <iostream>
 #include <vector>
 
-#include "451-SortCharacters.h"
+#include "149-MaxPoints.h"
 
 using namespace std;
+
 int main() {
-    string s = "egg";
-    string t = "adp";
     Solution so;
-    cout<<so.frequencySort(s)<<endl;
+    vector<Solution::Point> points;
+    Solution::Point p1(1,1);
+    Solution::Point p2(1,1);
+    Solution::Point p3(1,1);
+//    Solution::Point p4(2,2);
+    points.push_back(p1);
+    points.push_back(p2);
+    points.push_back(p3);
+//    points.push_back(p4);
+    cout<<so.maxPoints(points)<<endl;
+
+
     return 0;
 }
