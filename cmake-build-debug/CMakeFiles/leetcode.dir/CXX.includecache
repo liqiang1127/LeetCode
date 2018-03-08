@@ -6,12 +6,18 @@
 
 #IncludeRegexTransform: 
 
-D:/develop/workspace/Cworkspace/leetcode/219-ContainsDuplicate.h
+D:/develop/workspace/Cworkspace/leetcode/82-RemoveDuplicates.h
 iostream
 -
-vector
--
-unordered_set
+ListNode.h
+D:/develop/workspace/Cworkspace/leetcode/ListNode.h
+
+D:/develop/workspace/Cworkspace/leetcode/ListHelper.h
+ListNode.h
+D:/develop/workspace/Cworkspace/leetcode/ListNode.h
+
+D:/develop/workspace/Cworkspace/leetcode/ListNode.h
+iostream
 -
 
 D:/develop/workspace/Cworkspace/leetcode/main.cpp
@@ -19,6 +25,8 @@ iostream
 -
 vector
 -
-219-ContainsDuplicate.h
-D:/develop/workspace/Cworkspace/leetcode/219-ContainsDuplicate.h
+ListHelper.h
+D:/develop/workspace/Cworkspace/leetcode/ListHelper.h
+82-RemoveDuplicates.h
+D:/develop/workspace/Cworkspace/leetcode/82-RemoveDuplicates.h
 

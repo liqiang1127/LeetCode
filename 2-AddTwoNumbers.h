@@ -26,7 +26,7 @@ public:
         ListNode(int x) : val(x), next(NULL) {}
     };
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        bool flag = false;
+        bool flag = false;//进位标识符
         ListNode *ret = new ListNode(0);
         ListNode *p = ret;
         while (l1 || l2 || flag){

@@ -113,7 +113,13 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/205-IsomorphicStrings.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/206-ReverseLinkedList.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/209-MinimumSizeSubarraySum.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/21- MergeTwoSortedLists.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/215-KthLargestElement.h">
@@ -161,6 +167,9 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/438-FindAnagrams.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/445-AddTwoNumbersII.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/447-NumberOfBoomerangs.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -182,10 +191,28 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/80-RemoveDuplicates.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/82-RemoveDuplicates.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/83-RemoveDuplicates.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/86-PartitionList.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/88-MergeSortedArray.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/92-ReverseLinkedList2.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/LeetGod.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/ListHelper.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/ListNode.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/main.cpp">
