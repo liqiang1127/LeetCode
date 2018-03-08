@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/develop/workspace/Cworkspace/leetcode/82-RemoveDuplicates.h
-iostream
--
+D:/develop/workspace/Cworkspace/leetcode/61-RotateList.h
 ListNode.h
 D:/develop/workspace/Cworkspace/leetcode/ListNode.h
 
@@ -27,6 +25,6 @@ vector
 -
 ListHelper.h
 D:/develop/workspace/Cworkspace/leetcode/ListHelper.h
-82-RemoveDuplicates.h
-D:/develop/workspace/Cworkspace/leetcode/82-RemoveDuplicates.h
+61-RotateList.h
+D:/develop/workspace/Cworkspace/leetcode/61-RotateList.h
 

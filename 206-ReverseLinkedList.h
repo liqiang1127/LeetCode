@@ -20,7 +20,7 @@ public:
         ListNode* new_head = new ListNode(0);
         new_head->next = head;
         ListNode* pre = new_head;
-        ListNode* cur = cur;
+        ListNode* cur = head;
 
         while (cur->next != NULL){
             ListNode* move = cur->next;

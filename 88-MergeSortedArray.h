@@ -47,7 +47,7 @@ public:
             }else if( nums1[i] > nums2[j]){
                 nums1[index--] = nums1[i--];
             }else {
-                nums1[index--] = nums2[j--];
+                nums1[  index--] = nums2[j--];
             }
         }
     }

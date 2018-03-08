@@ -89,10 +89,16 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/125-ValidPalindrome.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/143-ReorderList.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/147-InsertionSortList.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/149-MaxPoints.h">
 			<Option target="leetcode"/>
 		</Unit>
-		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/15-3sum.h">
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/15-3Sum.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/16-3SumClosest.h">
@@ -102,6 +108,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/18-4Sum.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/19-RemoveNthNodeFromEnd.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/2-AddTwoNumbers.h">
@@ -134,7 +143,19 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/220-ContainsDuplicate.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/234-PalindromeLinkedList.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/237-DeleteNodeInLinkedList.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/24-SwapNodes.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/242-IsAnagram.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/25-ReverseNodes.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/26-RemoveDuplicates.h">
@@ -180,6 +201,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/49-GroupAnagrams.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/61-RotateList.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/75-SortColors.h">

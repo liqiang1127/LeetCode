@@ -1,17 +1,15 @@
 #include <iostream>
 #include <vector>
 #include "ListHelper.h"
-#include "82-RemoveDuplicates.h"
+#include "61-RotateList.h"
 
 using namespace std;
 
 int main() {
-    int arr1[] = {1,1};
-//    int arr2[] = {9,9};
-    ListNode* head1 = ListHelper::createList(arr1,2);
-//    ListNode* head2 = ListHelper::createList(arr2,2);
+    int arr1[] = {1,2,3,4,5};
+    ListNode* head1 = ListHelper::createList(arr1,5);
     Solution so;
-    ListNode* res = so.deleteDuplicates(head1);
+    ListNode* res = so.rotateRight(head1,2);
     ListHelper::printList(res);
     return 0;
 }
