@@ -53,7 +53,7 @@ public:
                     return false;
                 }
             }else{
-                //这个key没出现过
+                //这个key没出现过 绑定key和str
                 //检查这个string 有没有被匹配过了 避免新的key 匹配到已经匹配过的string
                 if(set.find(vec[i]) != set.end())
                     return false;

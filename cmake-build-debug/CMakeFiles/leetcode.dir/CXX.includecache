@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/develop/workspace/Cworkspace/leetcode/61-RotateList.h
-ListNode.h
-D:/develop/workspace/Cworkspace/leetcode/ListNode.h
+D:/develop/workspace/Cworkspace/leetcode/71-SimplifyPath.h
+iostream
+-
+vector
+-
+stack
+-
 
 D:/develop/workspace/Cworkspace/leetcode/ListHelper.h
 ListNode.h
@@ -25,6 +29,6 @@ vector
 -
 ListHelper.h
 D:/develop/workspace/Cworkspace/leetcode/ListHelper.h
-61-RotateList.h
-D:/develop/workspace/Cworkspace/leetcode/61-RotateList.h
+71-SimplifyPath.h
+D:/develop/workspace/Cworkspace/leetcode/71-SimplifyPath.h
 
