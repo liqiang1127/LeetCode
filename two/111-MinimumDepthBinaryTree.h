@@ -5,7 +5,7 @@
 #ifndef LEETCODE_111_MINIMUMDEPTHBINARYTREE_H
 #define LEETCODE_111_MINIMUMDEPTHBINARYTREE_H
 
-#include "TreeNode.h"
+#include "../TreeNode.h"
 
 using namespace std;
 /**

@@ -2,45 +2,46 @@
 // Created by liqiang on 2018/3/9.
 //
 
-#ifndef LEETCODE_94_BINARYTREEINORDERTRAVERSAL_H
-#define LEETCODE_94_BINARYTREEINORDERTRAVERSAL_H
+#ifndef LEETCODE_145_BINARYTREEPOSTORDERTRAVERSAL_H
+#define LEETCODE_145_BINARYTREEPOSTORDERTRAVERSAL_H
 
-#include <iostream>
-#include <vector>
+#include "../TreeNode.h"
 #include <stack>
-#include "TreeNode.h"
+#include <vector>
+
 using namespace std;
 
-
-
 struct Command{
-    bool op;//true go;false otherOperate
+    bool op;//true go  false operate
     TreeNode* node;
-    Command(TreeNode* treeNode,bool f):op(f),node(treeNode){};
+    Command(TreeNode* treeNode,bool s):op(s),node(treeNode){};
 };
 
 class Solution {
 public:
-    vector<int> inorderTraversal(TreeNode* root) {
+    //不用递归 用迭代
+    vector<int> postorderTraversal(TreeNode* root) {
         vector<int> res;
-        if(!root)
+        if(root == nullptr)
             return res;
 
+        //模仿系统的栈
         stack<Command> stack;
+
         stack.push(Command(root,true));
 
-        while(stack.size()){
+        while (stack.size()){
             Command c = stack.top();
             stack.pop();
 
             if(!c.op){
-                //otherOperate
+                //print 指令
                 res.push_back(c.node->val);
             }else{
-                //go
+                //go指令 将即将执行的指令入栈
+                stack.push(Command(c.node, false));
                 if(c.node->right)
                     stack.push(Command(c.node->right,true));
-                stack.push(Command(c.node,false));
                 if(c.node->left)
                     stack.push(Command(c.node->left,true));
             }
@@ -49,4 +50,4 @@ public:
     }
 };
 
-#endif //LEETCODE_94_BINARYTREEINORDERTRAVERSAL_H
+#endif //LEETCODE_145_BINARYTREEPOSTORDERTRAVERSAL_H

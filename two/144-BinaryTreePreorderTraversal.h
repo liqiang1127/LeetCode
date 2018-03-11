@@ -2,13 +2,13 @@
 // Created by liqiang on 2018/3/9.
 //
 
-#ifndef LEETCODE_145_BINARYTREEPOSTORDERTRAVERSAL_H
-#define LEETCODE_145_BINARYTREEPOSTORDERTRAVERSAL_H
+#ifndef LEETCODE_144_BINARYTREEPREORDERTRAVERSAL_H
+#define LEETCODE_144_BINARYTREEPREORDERTRAVERSAL_H
 
-#include "TreeNode.h"
-#include <stack>
+#include <iostream>
 #include <vector>
-
+#include <stack>
+#include "../TreeNode.h"
 using namespace std;
 
 struct Command{
@@ -20,7 +20,7 @@ struct Command{
 class Solution {
 public:
     //不用递归 用迭代
-    vector<int> postorderTraversal(TreeNode* root) {
+    vector<int> preorderTraversal(TreeNode* root) {
         vector<int> res;
         if(root == nullptr)
             return res;
@@ -39,15 +39,15 @@ public:
                 res.push_back(c.node->val);
             }else{
                 //go指令 将即将执行的指令入栈
-                stack.push(Command(c.node, false));
                 if(c.node->right)
                     stack.push(Command(c.node->right,true));
                 if(c.node->left)
                     stack.push(Command(c.node->left,true));
+                stack.push(Command(c.node, false));
             }
         }
         return res;
     }
 };
 
-#endif //LEETCODE_145_BINARYTREEPOSTORDERTRAVERSAL_H
+#endif //LEETCODE_144_BINARYTREEPREORDERTRAVERSAL_H

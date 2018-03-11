@@ -2,7 +2,7 @@
 #include <queue>
 #include <vector>
 #include "ListHelper.h"
-#include "23-MergeKSortedLists.h"
+#include "one/23-MergeKSortedLists.h"
 
 using namespace std;
 int main() {

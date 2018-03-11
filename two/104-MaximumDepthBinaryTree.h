@@ -6,7 +6,7 @@
 #define LEETCODE_104_MAXIMUMDEPTHBINARYTREE_H
 
 #include <iostream>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 using namespace std;
 /**
  * Definition for a binary tree node.

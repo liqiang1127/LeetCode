@@ -5,7 +5,7 @@
 #ifndef LEETCODE_143_REORDERLIST_H
 #define LEETCODE_143_REORDERLIST_H
 
-#include "ListNode.h"
+#include "../ListNode.h"
 
 /**
  * Definition for singly-linked list.

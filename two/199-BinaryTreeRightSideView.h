@@ -5,7 +5,7 @@
 #ifndef LEETCODE_199_BINARYTREERIGHTSIDEVIEW_H
 #define LEETCODE_199_BINARYTREERIGHTSIDEVIEW_H
 
-#include "TreeNode.h"
+#include "../TreeNode.h"
 #include <iostream>
 #include <vector>
 #include <queue>

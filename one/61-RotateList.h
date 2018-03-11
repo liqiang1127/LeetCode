@@ -5,7 +5,7 @@
 #ifndef LEETCODE_61_ROTATELIST_H
 #define LEETCODE_61_ROTATELIST_H
 
-#include "ListNode.h"
+#include "../ListNode.h"
 
 /**
  * Definition for singly-linked list.

@@ -5,7 +5,7 @@
 #ifndef LEETCODE_23_MERGEKSORTEDLISTS_H
 #define LEETCODE_23_MERGEKSORTEDLISTS_H
 
-#include "ListNode.h"
+#include "../ListNode.h"
 #include <iostream>
 #include <queue>
 #include <vector>

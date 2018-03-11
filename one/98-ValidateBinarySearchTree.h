@@ -6,7 +6,7 @@
 #define LEETCODE_98_VALIDATEBINARYSEARCHTREE_H
 
 #include <iostream>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 #include <vector>
 
 using namespace std;

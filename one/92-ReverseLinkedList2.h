@@ -6,7 +6,7 @@
 #define LEETCODE_92_REVERSELINKEDLIST2_H
 
 #include <iostream>
-#include "ListNode.h"
+#include "../ListNode.h"
 
 using namespace std;
 

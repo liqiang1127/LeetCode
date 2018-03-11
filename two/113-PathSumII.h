@@ -7,7 +7,7 @@
 
 
 #include <iostream>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 #include <vector>
 #include <stack>
 using namespace std;

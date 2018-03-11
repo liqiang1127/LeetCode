@@ -5,7 +5,7 @@
 #ifndef LEETCODE_82_REMOVEDUPLICATES_H
 #define LEETCODE_82_REMOVEDUPLICATES_H
 #include <iostream>
-#include "ListNode.h"
+#include "../ListNode.h"
 
 using namespace std;
 

@@ -9,7 +9,7 @@
 #include <vector>
 #include <stack>
 #include <queue>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 
 using namespace std;
 

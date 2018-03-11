@@ -6,7 +6,7 @@
 #define LEETCODE_110_BALANCEDBINARYTREE_H
 
 #include <iostream>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 
 using namespace std;
 /**

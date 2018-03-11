@@ -5,7 +5,7 @@
 #ifndef LEETCODE_100_SAMETREE_H
 #define LEETCODE_100_SAMETREE_H
 
-#include "TreeNode.h"
+#include "../TreeNode.h"
 #include <iostream>
 
 using namespace std;

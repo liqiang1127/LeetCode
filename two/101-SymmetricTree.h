@@ -6,7 +6,7 @@
 #define LEETCODE_101_SYMMETRICTREE_H
 
 #include <iostream>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 
 using namespace std;
 

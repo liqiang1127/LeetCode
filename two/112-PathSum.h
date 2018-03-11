@@ -5,7 +5,7 @@
 #ifndef LEETCODE_112_PATHSUM_H
 #define LEETCODE_112_PATHSUM_H
 #include<iostream>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 
 using namespace std;
 

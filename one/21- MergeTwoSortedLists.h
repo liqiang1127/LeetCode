@@ -6,7 +6,7 @@
 #define LEETCODE_21_MERGETWOSORTEDLISTS_H
 
 #include <iostream>
-#include "ListNode.h"
+#include "../ListNode.h"
 
 using namespace std;
 
