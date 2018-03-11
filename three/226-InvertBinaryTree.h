@@ -5,7 +5,7 @@
 #ifndef LEETCODE_226_INVERTBINARYTREE_H
 #define LEETCODE_226_INVERTBINARYTREE_H
 
-#include "TreeNode.h"
+#include "../TreeNode.h"
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

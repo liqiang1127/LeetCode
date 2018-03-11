@@ -5,7 +5,7 @@
 #ifndef LEETCODE_234_PALINDROMELINKEDLIST_H
 #define LEETCODE_234_PALINDROMELINKEDLIST_H
 
-#include "ListNode.h"
+#include "../ListNode.h"
 
 using namespace std;
 

@@ -5,7 +5,7 @@
 #ifndef LEETCODE_257_BINARYTREEPATHS_H
 #define LEETCODE_257_BINARYTREEPATHS_H
 
-#include "TreeNode.h"
+#include "../TreeNode.h"
 #include <iostream>
 #include <vector>
 

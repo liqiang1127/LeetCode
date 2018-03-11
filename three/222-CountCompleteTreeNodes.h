@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <cmath>
-#include "TreeNode.h"
+#include "../TreeNode.h"
 using namespace std;
 
 /**

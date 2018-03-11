@@ -5,7 +5,7 @@
 #ifndef LEETCODE_404_SUMLEFTLEAVES_H
 #define LEETCODE_404_SUMLEFTLEAVES_H
 
-#include "TreeNode.h"
+#include "../TreeNode.h"
 #include <iostream>
 #include <vector>
 
