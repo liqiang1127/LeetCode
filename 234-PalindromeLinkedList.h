@@ -44,7 +44,7 @@ public:
         ListNode* fast = head;
         ListNode* pre = NULL;
 
-        //获取终点 好重要啊
+        //快慢指针获取中点
         while( fast && fast->next ){
             pre = slow;
             slow = slow->next;

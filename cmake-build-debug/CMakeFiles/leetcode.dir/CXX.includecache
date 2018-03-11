@@ -6,12 +6,16 @@
 
 #IncludeRegexTransform: 
 
-D:/develop/workspace/Cworkspace/leetcode/71-SimplifyPath.h
+D:/develop/workspace/Cworkspace/leetcode/23-MergeKSortedLists.h
+ListNode.h
+D:/develop/workspace/Cworkspace/leetcode/ListNode.h
 iostream
+-
+queue
 -
 vector
 -
-stack
+functional
 -
 
 D:/develop/workspace/Cworkspace/leetcode/ListHelper.h
@@ -25,10 +29,12 @@ iostream
 D:/develop/workspace/Cworkspace/leetcode/main.cpp
 iostream
 -
+queue
+-
 vector
 -
 ListHelper.h
 D:/develop/workspace/Cworkspace/leetcode/ListHelper.h
-71-SimplifyPath.h
-D:/develop/workspace/Cworkspace/leetcode/71-SimplifyPath.h
+23-MergeKSortedLists.h
+D:/develop/workspace/Cworkspace/leetcode/23-MergeKSortedLists.h
 

@@ -1,13 +1,23 @@
 #include <iostream>
+#include <queue>
 #include <vector>
 #include "ListHelper.h"
-#include "71-SimplifyPath.h"
+#include "23-MergeKSortedLists.h"
 
 using namespace std;
-
 int main() {
-    string s = "/.../";
+    vector<ListNode*> vec;
     Solution solution;
-    cout<<solution.simplifyPath(s)<<endl;
+    ListNode* res = solution.mergeKLists(vec);
+    ListHelper::printList(res);
+
+//    priority_queue<int,vector<int>,com> q;
+//    for (int i = 0; i <10 ; ++i) {
+//        q.push(i);
+//    }
+//    while (q.size()){
+//        cout<<q.top()<<"\t";
+//        q.pop();
+//    }
     return 0;
 }
