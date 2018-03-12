@@ -27,7 +27,9 @@ public:
         if(!root)
             return nullptr;
         //换句或说 p q 分布在同一侧 就还没找到答案
+        //注意这里有等于直接会返回 root
         if(p->val > root->val && q->val > root->val){
+            //都在右子树 去右子树找
             return lowestCommonAncestor(root->right,p,q);
         }
 

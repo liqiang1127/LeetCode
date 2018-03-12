@@ -1,23 +1,18 @@
 #include <iostream>
 #include <queue>
 #include <vector>
-#include "ListHelper.h"
-#include "one/23-MergeKSortedLists.h"
-
+#include "one/93-RestoreIPAddresses.h"
 using namespace std;
-int main() {
-    vector<ListNode*> vec;
-    Solution solution;
-    ListNode* res = solution.mergeKLists(vec);
-    ListHelper::printList(res);
 
-//    priority_queue<int,vector<int>,com> q;
-//    for (int i = 0; i <10 ; ++i) {
-//        q.push(i);
-//    }
-//    while (q.size()){
-//        cout<<q.top()<<"\t";
-//        q.pop();
-//    }
+int main() {
+    Solution solution;
+    vector<string> vec = solution.restoreIpAddresses("25525511135");
+    cout<<vec.size()<<endl;
+    for(auto s : vec){
+        cout<<s<<endl;
+    }
+//    string a = "1234";
+//    string b = a.substr(1,3);
+//    cout<<b<<endl;
     return 0;
 }
