@@ -92,7 +92,13 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/TreeNode.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/401-BinaryWatch.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/404-SumLeftLeaves.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/417-PacificAtlanticWaterFlow.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/437-PathSumIII.h">
@@ -185,7 +191,25 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/3-LongestSubstring.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/39-CombinationSum.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/40-CombinationSumII.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/46-Permutations.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/47-PermutationsII.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/49-GroupAnagrams.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/51-N-Queens.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/52-N-QueensII.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/61-RotateList.h">
@@ -198,6 +222,15 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/76-MinimumWindowSubstring.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/77-Combinations.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/78-Subsets.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/79-WordSearch.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/80-RemoveDuplicates.h">
@@ -213,6 +246,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/88-MergeSortedArray.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/90-SubsetsII.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/92-ReverseLinkedList2.h">
@@ -240,6 +276,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/215-KthLargestElement.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/216-CombinationSumIII.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/217-ContainsDuplicate.h">
@@ -320,6 +359,12 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/125-ValidPalindrome.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/130-SurroundedRegions.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/131-PalindromePartitioning.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/143-ReorderList.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -342,6 +387,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/199-BinaryTreeRightSideView.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/200-NumberOfIslands.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/CMakeLists.txt">
