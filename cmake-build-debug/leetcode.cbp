@@ -215,6 +215,12 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/61-RotateList.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/64-MinimumPathSum.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/70-ClimbingStairs.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/71-SimplifyPath.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -354,6 +360,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/113-PathSumII.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/120-Triangle.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/125-ValidPalindrome.h">
