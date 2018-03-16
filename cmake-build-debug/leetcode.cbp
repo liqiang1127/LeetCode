@@ -122,6 +122,15 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/454-4SUM-II.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/309-BestTimeToBuySellStockCooldown.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/337-HouseRobberIII.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/343-IntegerBreak.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/344-ReverseString.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -215,6 +224,12 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/61-RotateList.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/62-UniquePaths.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/63-UniquePathsII.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/64-MinimumPathSum.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -257,6 +272,9 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/90-SubsetsII.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/91-DecodeWays.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/one/92-ReverseLinkedList2.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -279,6 +297,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/209-MinimumSizeSubarraySum.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/213-House RobberII.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/215-KthLargestElement.h">
@@ -365,6 +386,9 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/120-Triangle.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/121-BestTimetoBuyandSellStock.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/125-ValidPalindrome.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -393,6 +417,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/167-TwoSum-II.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/198-HouseRobber.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/199-BinaryTreeRightSideView.h">
