@@ -22,7 +22,7 @@ public:
         for (int i = 0; i < nums.size() ; ++i) {
             //在窗口中存在一个大于等于nums[i]的数，并且这个数小于等于 nums[i] + t
             //那个这个数和nums[i]的绝对差值 肯定小于t
-            //leetcode 这题 有也越界的坑
+            //leetcode 这题 有越界的坑
             if(record.lower_bound( (long long)nums[i] - (long long)t) != record.end() && *record.lower_bound((long long)nums[i] - (long long)t) <= (long long)nums[i] + (long long)t)
                 return true;
 

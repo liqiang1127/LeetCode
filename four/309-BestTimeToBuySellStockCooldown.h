@@ -12,7 +12,7 @@ using namespace std;
 //对于买来说，当天是否买取决于买了之后是否比之前买所剩余的利润大，即状态转移方程为：
 //buy[i] = max(buy[i-1], sell[i-2] - prices[i]);
 //对于卖来说，同样当天是否将这只股票卖掉取决于卖掉能否获得更大的利润，状态转移方程为：
-//sell[i] = max(sell[i-1], sell[i-1] + prices[i]);
+//sell[i] = max(sell[i-1], buy[i-1] + prices[i]);
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {

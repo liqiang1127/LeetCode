@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+D:/develop/workspace/Cworkspace/leetcode/four/322-CoinChange.h
+iostream
+-
+vector
+-
+
 D:/develop/workspace/Cworkspace/leetcode/main.cpp
 iostream
 -
@@ -13,12 +19,6 @@ queue
 -
 vector
 -
-one/63-UniquePathsII.h
-D:/develop/workspace/Cworkspace/leetcode/one/63-UniquePathsII.h
-
-D:/develop/workspace/Cworkspace/leetcode/one/63-UniquePathsII.h
-vector
--
-iostream
--
+four/322-CoinChange.h
+D:/develop/workspace/Cworkspace/leetcode/four/322-CoinChange.h
 

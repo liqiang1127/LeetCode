@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/Knapsack01.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/LeetGod.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -96,6 +99,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/404-SumLeftLeaves.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/416-PartitionEqualSubsetSum.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/five/417-PacificAtlanticWaterFlow.h">
@@ -125,6 +131,9 @@
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/309-BestTimeToBuySellStockCooldown.h">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/322-CoinChange.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/337-HouseRobberIII.h">
 			<Option target="leetcode"/>
 		</Unit>
@@ -144,6 +153,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/350-Intersect.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/four/377-CombinationSumIV.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/main.cpp">
@@ -351,6 +363,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/290-WordPattern.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/three/300-LIS.h">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/develop/workspace/Cworkspace/leetcode/two/101-SymmetricTree.h">

@@ -1,15 +1,15 @@
 #include <iostream>
 #include <queue>
 #include <vector>
-#include "one/63-UniquePathsII.h"
+#include "four/322-CoinChange.h"
 using namespace std;
 
 
 
 int main() {
-    vector<vector<int>> in(1,vector<int>(1,0));
-    Solution solution;
-    int res = solution.uniquePathsWithObstacles(in);
+    Solution solution ;
+    vector<int> in = {2};
+    int res = solution.coinChange(in,1);
     cout<<res;
     return 0;
 }
